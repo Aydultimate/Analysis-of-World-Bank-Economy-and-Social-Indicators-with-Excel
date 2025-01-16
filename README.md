@@ -61,6 +61,6 @@ Here’s an analysis based on the charts presented in the World Bank economic, s
 - High-emission and industrialized countries could work together to create global initiatives aimed at reducing greenhouse gas emissions, conserving natural resources, and sharing sustainable practices.
 - International partnerships in research, technology transfer, and environmental funding can help countries, especially developing ones, adopt greener solutions.
 
-## 8. Invest in Education and Skills Development:
+### 8. Invest in Education and Skills Development:
 - To combat unemployment and promote economic growth, countries should invest in education, vocational training, and skill development programs that align with the needs of their evolving job markets.
 - This can increase workforce adaptability, enhance productivity, and improve overall economic competitiveness.
