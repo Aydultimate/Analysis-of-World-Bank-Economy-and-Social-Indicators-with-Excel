@@ -24,8 +24,8 @@ Here’s an analysis based on the charts presented in the World Bank economic, s
 - Other countries, such as Argentina and France, also experience relatively high unemployment rates, highlighting labor market challenges across both developed and developing economies.
 
 ### 5. Population:
- - Saudi Arabia and the United Kingdom have the highest populations among the analyzed countries, which can impact resource distribution, infrastructure, and social services.
- - Population size often correlates with economic output and environmental pressures, and it also affects social policies, healthcare, and education demands.
+- Saudi Arabia and the United Kingdom have the highest populations among the analyzed countries, which can impact resource distribution, infrastructure, and social services.
+- Population size often correlates with economic output and environmental pressures, and it also affects social policies, healthcare, and education demands.
 
 ### 6. CO2 Emissions:
 - India is the highest emitter of CO2, followed by France and Italy. High CO2 emissions contribute to global warming and environmental degradation, often tied to industrial activities, energy production, and urbanization.
